@@ -1,7 +1,7 @@
 import streamlit as st
 import time
 
-# st.title()
+st.title("Happy New Year!")
 # st.write()
 # st.text_input()
 # st.button()
